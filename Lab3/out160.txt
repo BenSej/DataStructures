@@ -1,0 +1,1944 @@
+*** Random Order Start *** 
+
+1768 : 3536 -> True, collisions 0
+1768 : 3536 -> True, collisions 0
+1768 : 3536 -> True, collisions 0
+
+3834 : 7668 -> True, collisions 0
+3834 : 7668 -> True, collisions 0
+3834 : 7668 -> True, collisions 0
+
+8729 : 17458 -> True, collisions 0
+8729 : 17458 -> True, collisions 0
+8729 : 17458 -> True, collisions 0
+
+7465 : 14930 -> True, collisions 0
+7465 : 14930 -> True, collisions 0
+7465 : 14930 -> True, collisions 0
+
+3878 : 7756 -> True, collisions 0
+3878 : 7756 -> True, collisions 0
+3878 : 7756 -> True, collisions 0
+
+2013 : 4026 -> True, collisions 0
+2013 : 4026 -> True, collisions 0
+2013 : 4026 -> True, collisions 0
+
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+
+2648 : 5296 -> True, collisions 4
+2648 : 5296 -> True, collisions 4
+2648 : 5296 -> True, collisions 2
+
+9885 : 19770 -> True, collisions 0
+9885 : 19770 -> True, collisions 0
+9885 : 19770 -> True, collisions 0
+
+7010 : 14020 -> True, collisions 0
+7010 : 14020 -> True, collisions 0
+7010 : 14020 -> True, collisions 0
+
+8385 : 16770 -> True, collisions 0
+8385 : 16770 -> True, collisions 0
+8385 : 16770 -> True, collisions 0
+
+531 : 1062 -> True, collisions 0
+531 : 1062 -> True, collisions 0
+531 : 1062 -> True, collisions 0
+
+3769 : 7538 -> True, collisions 0
+3769 : 7538 -> True, collisions 0
+3769 : 7538 -> True, collisions 0
+
+3127 : 6254 -> True, collisions 0
+3127 : 6254 -> True, collisions 0
+3127 : 6254 -> True, collisions 0
+
+8079 : 16158 -> True, collisions 0
+8079 : 16158 -> True, collisions 0
+8079 : 16158 -> True, collisions 0
+
+6971 : 13942 -> True, collisions 0
+6971 : 13942 -> True, collisions 0
+6971 : 13942 -> True, collisions 0
+
+2055 : 4110 -> True, collisions 0
+2055 : 4110 -> True, collisions 0
+2055 : 4110 -> True, collisions 0
+
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+
+4005 : 8010 -> True, collisions 0
+4005 : 8010 -> True, collisions 0
+4005 : 8010 -> True, collisions 0
+
+2145 : 4290 -> True, collisions 0
+2145 : 4290 -> True, collisions 0
+2145 : 4290 -> True, collisions 0
+
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+
+3875 : 7750 -> True, collisions 0
+3875 : 7750 -> True, collisions 0
+3875 : 7750 -> True, collisions 0
+
+3365 : 6730 -> True, collisions 0
+3365 : 6730 -> True, collisions 0
+3365 : 6730 -> True, collisions 0
+
+9226 : 18452 -> True, collisions 0
+9226 : 18452 -> True, collisions 0
+9226 : 18452 -> True, collisions 0
+
+7906 : 15812 -> True, collisions 0
+7906 : 15812 -> True, collisions 0
+7906 : 15812 -> True, collisions 0
+
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+
+3850 : 7700 -> True, collisions 0
+3850 : 7700 -> True, collisions 0
+3850 : 7700 -> True, collisions 0
+
+9250 : 18500 -> True, collisions 2
+9250 : 18500 -> True, collisions 2
+9250 : 18500 -> True, collisions 2
+
+8121 : 16242 -> True, collisions 0
+8121 : 16242 -> True, collisions 0
+8121 : 16242 -> True, collisions 0
+
+8555 : 17110 -> True, collisions 0
+8555 : 17110 -> True, collisions 0
+8555 : 17110 -> True, collisions 0
+
+2826 : 5652 -> True, collisions 0
+2826 : 5652 -> True, collisions 0
+2826 : 5652 -> True, collisions 0
+
+1478 : 2956 -> True, collisions 0
+1478 : 2956 -> True, collisions 0
+1478 : 2956 -> True, collisions 0
+
+2321 : 4642 -> True, collisions 0
+2321 : 4642 -> True, collisions 0
+2321 : 4642 -> True, collisions 0
+
+7810 : 15620 -> True, collisions 0
+7810 : 15620 -> True, collisions 0
+7810 : 15620 -> True, collisions 0
+
+8191 : 16382 -> True, collisions 2
+8191 : 16382 -> True, collisions 2
+8191 : 16382 -> True, collisions 4
+
+985 : 1970 -> True, collisions 0
+985 : 1970 -> True, collisions 0
+985 : 1970 -> True, collisions 0
+
+8007 : 16014 -> True, collisions 0
+8007 : 16014 -> True, collisions 0
+8007 : 16014 -> True, collisions 0
+
+1493 : 2986 -> True, collisions 0
+1493 : 2986 -> True, collisions 0
+1493 : 2986 -> True, collisions 0
+
+1390 : 2780 -> True, collisions 0
+1390 : 2780 -> True, collisions 0
+1390 : 2780 -> True, collisions 0
+
+9713 : 19426 -> True, collisions 0
+9713 : 19426 -> True, collisions 0
+9713 : 19426 -> True, collisions 0
+
+9171 : 18342 -> True, collisions 0
+9171 : 18342 -> True, collisions 0
+9171 : 18342 -> True, collisions 0
+
+4643 : 9286 -> True, collisions 0
+4643 : 9286 -> True, collisions 0
+4643 : 9286 -> True, collisions 0
+
+7393 : 14786 -> True, collisions 0
+7393 : 14786 -> True, collisions 0
+7393 : 14786 -> True, collisions 0
+
+1213 : 2426 -> True, collisions 0
+1213 : 2426 -> True, collisions 0
+1213 : 2426 -> True, collisions 2
+
+137 : 274 -> True, collisions 0
+137 : 274 -> True, collisions 0
+137 : 274 -> True, collisions 0
+
+3539 : 7078 -> True, collisions 0
+3539 : 7078 -> True, collisions 0
+3539 : 7078 -> True, collisions 0
+
+6360 : 12720 -> True, collisions 0
+6360 : 12720 -> True, collisions 0
+6360 : 12720 -> True, collisions 0
+
+9925 : 19850 -> True, collisions 0
+9925 : 19850 -> True, collisions 0
+9925 : 19850 -> True, collisions 0
+
+4941 : 9882 -> True, collisions 2
+4941 : 9882 -> True, collisions 2
+4941 : 9882 -> True, collisions 4
+
+9241 : 18482 -> True, collisions 0
+9241 : 18482 -> True, collisions 0
+9241 : 18482 -> True, collisions 0
+
+6737 : 13474 -> True, collisions 0
+6737 : 13474 -> True, collisions 0
+6737 : 13474 -> True, collisions 0
+
+5806 : 11612 -> True, collisions 0
+5806 : 11612 -> True, collisions 0
+5806 : 11612 -> True, collisions 2
+
+3608 : 7216 -> True, collisions 0
+3608 : 7216 -> True, collisions 0
+3608 : 7216 -> True, collisions 0
+
+6928 : 13856 -> True, collisions 2
+6928 : 13856 -> True, collisions 2
+6928 : 13856 -> True, collisions 4
+
+6050 : 12100 -> True, collisions 0
+6050 : 12100 -> True, collisions 0
+6050 : 12100 -> True, collisions 0
+
+1019 : 2038 -> True, collisions 4
+1019 : 2038 -> True, collisions 8
+1019 : 2038 -> True, collisions 4
+
+3139 : 6278 -> True, collisions 0
+3139 : 6278 -> True, collisions 0
+3139 : 6278 -> True, collisions 0
+
+2752 : 5504 -> True, collisions 0
+2752 : 5504 -> True, collisions 0
+2752 : 5504 -> True, collisions 0
+
+8621 : 17242 -> True, collisions 0
+8621 : 17242 -> True, collisions 0
+8621 : 17242 -> True, collisions 0
+
+6690 : 13380 -> True, collisions 0
+6690 : 13380 -> True, collisions 0
+6690 : 13380 -> True, collisions 4
+
+1869 : 3738 -> True, collisions 2
+1869 : 3738 -> True, collisions 2
+1869 : 3738 -> True, collisions 2
+
+8686 : 17372 -> True, collisions 0
+8686 : 17372 -> True, collisions 0
+8686 : 17372 -> True, collisions 0
+
+1000 : 2000 -> True, collisions 0
+1000 : 2000 -> True, collisions 0
+1000 : 2000 -> True, collisions 0
+
+3685 : 7370 -> True, collisions 0
+3685 : 7370 -> True, collisions 0
+3685 : 7370 -> True, collisions 0
+
+466 : 932 -> True, collisions 4
+466 : 932 -> True, collisions 6
+466 : 932 -> True, collisions 4
+
+2143 : 4286 -> True, collisions 0
+2143 : 4286 -> True, collisions 0
+2143 : 4286 -> True, collisions 0
+
+9767 : 19534 -> True, collisions 0
+9767 : 19534 -> True, collisions 0
+9767 : 19534 -> True, collisions 0
+
+3566 : 7132 -> True, collisions 0
+3566 : 7132 -> True, collisions 0
+3566 : 7132 -> True, collisions 0
+
+8929 : 17858 -> True, collisions 2
+8929 : 17858 -> True, collisions 2
+8929 : 17858 -> True, collisions 4
+
+1549 : 3098 -> True, collisions 0
+1549 : 3098 -> True, collisions 0
+1549 : 3098 -> True, collisions 0
+
+905 : 1810 -> True, collisions 0
+905 : 1810 -> True, collisions 0
+905 : 1810 -> True, collisions 0
+
+3725 : 7450 -> True, collisions 0
+3725 : 7450 -> True, collisions 0
+3725 : 7450 -> True, collisions 0
+
+8300 : 16600 -> True, collisions 4
+8300 : 16600 -> True, collisions 4
+8300 : 16600 -> True, collisions 2
+
+5950 : 11900 -> True, collisions 0
+5950 : 11900 -> True, collisions 0
+5950 : 11900 -> True, collisions 0
+
+5782 : 11564 -> True, collisions 6
+5782 : 11564 -> True, collisions 2
+5782 : 11564 -> True, collisions 4
+
+8478 : 16956 -> True, collisions 0
+8478 : 16956 -> True, collisions 0
+8478 : 16956 -> True, collisions 0
+
+7083 : 14166 -> True, collisions 0
+7083 : 14166 -> True, collisions 0
+7083 : 14166 -> True, collisions 0
+
+2904 : 5808 -> True, collisions 4
+2904 : 5808 -> True, collisions 2
+2904 : 5808 -> True, collisions 4
+
+8690 : 17380 -> True, collisions 2
+8690 : 17380 -> True, collisions 2
+8690 : 17380 -> True, collisions 4
+
+5232 : 10464 -> True, collisions 4
+5232 : 10464 -> True, collisions 4
+5232 : 10464 -> True, collisions 2
+
+974 : 1948 -> True, collisions 0
+974 : 1948 -> True, collisions 0
+974 : 1948 -> True, collisions 0
+
+6805 : 13610 -> True, collisions 0
+6805 : 13610 -> True, collisions 0
+6805 : 13610 -> True, collisions 0
+
+7602 : 15204 -> True, collisions 8
+7602 : 15204 -> True, collisions 4
+7602 : 15204 -> True, collisions 6
+
+634 : 1268 -> True, collisions 0
+634 : 1268 -> True, collisions 0
+634 : 1268 -> True, collisions 2
+
+8640 : 17280 -> True, collisions 12
+8640 : 17280 -> True, collisions 10
+8640 : 17280 -> True, collisions 2
+
+7204 : 14408 -> True, collisions 2
+7204 : 14408 -> True, collisions 2
+7204 : 14408 -> True, collisions 2
+
+1428 : 2856 -> True, collisions 0
+1428 : 2856 -> True, collisions 0
+1428 : 2856 -> True, collisions 0
+
+5112 : 10224 -> True, collisions 4
+5112 : 10224 -> True, collisions 4
+5112 : 10224 -> True, collisions 6
+
+2505 : 5010 -> True, collisions 2
+2505 : 5010 -> True, collisions 0
+2505 : 5010 -> True, collisions 0
+
+5056 : 10112 -> True, collisions 0
+5056 : 10112 -> True, collisions 0
+5056 : 10112 -> True, collisions 0
+
+5425 : 10850 -> True, collisions 0
+5425 : 10850 -> True, collisions 0
+5425 : 10850 -> True, collisions 0
+
+6662 : 13324 -> True, collisions 0
+6662 : 13324 -> True, collisions 0
+6662 : 13324 -> True, collisions 0
+
+1778 : 3556 -> True, collisions 12
+1778 : 3556 -> True, collisions 8
+1778 : 3556 -> True, collisions 4
+
+9659 : 19318 -> True, collisions 2
+9659 : 19318 -> True, collisions 2
+9659 : 19318 -> True, collisions 2
+
+5019 : 10038 -> True, collisions 0
+5019 : 10038 -> True, collisions 0
+5019 : 10038 -> True, collisions 0
+
+6026 : 12052 -> True, collisions 0
+6026 : 12052 -> True, collisions 0
+6026 : 12052 -> True, collisions 0
+
+1995 : 3990 -> True, collisions 4
+1995 : 3990 -> True, collisions 4
+1995 : 3990 -> True, collisions 4
+
+1999 : 3998 -> True, collisions 6
+1999 : 3998 -> True, collisions 8
+1999 : 3998 -> True, collisions 2
+
+1716 : 3432 -> True, collisions 0
+1716 : 3432 -> True, collisions 0
+1716 : 3432 -> True, collisions 0
+
+6318 : 12636 -> True, collisions 2
+6318 : 12636 -> True, collisions 2
+6318 : 12636 -> True, collisions 4
+
+4347 : 8694 -> True, collisions 8
+4347 : 8694 -> True, collisions 4
+4347 : 8694 -> True, collisions 8
+
+9146 : 18292 -> True, collisions 0
+9146 : 18292 -> True, collisions 0
+9146 : 18292 -> True, collisions 0
+
+2332 : 4664 -> True, collisions 0
+2332 : 4664 -> True, collisions 0
+2332 : 4664 -> True, collisions 0
+
+448 : 896 -> True, collisions 0
+448 : 896 -> True, collisions 0
+448 : 896 -> True, collisions 0
+
+5061 : 10122 -> True, collisions 2
+5061 : 10122 -> True, collisions 2
+5061 : 10122 -> True, collisions 6
+
+6611 : 13222 -> True, collisions 0
+6611 : 13222 -> True, collisions 0
+6611 : 13222 -> True, collisions 4
+
+9051 : 18102 -> True, collisions 0
+9051 : 18102 -> True, collisions 0
+9051 : 18102 -> True, collisions 0
+
+3221 : 6442 -> True, collisions 4
+3221 : 6442 -> True, collisions 4
+3221 : 6442 -> True, collisions 6
+
+8685 : 17370 -> True, collisions 12
+8685 : 17370 -> True, collisions 6
+8685 : 17370 -> True, collisions 4
+
+8577 : 17154 -> True, collisions 16
+8577 : 17154 -> True, collisions 6
+8577 : 17154 -> True, collisions 14
+
+686 : 1372 -> True, collisions 8
+686 : 1372 -> True, collisions 12
+686 : 1372 -> True, collisions 6
+
+2176 : 4352 -> True, collisions 0
+2176 : 4352 -> True, collisions 0
+2176 : 4352 -> True, collisions 0
+
+7487 : 14974 -> True, collisions 6
+7487 : 14974 -> True, collisions 2
+7487 : 14974 -> True, collisions 4
+
+496 : 992 -> True, collisions 0
+496 : 992 -> True, collisions 0
+496 : 992 -> True, collisions 12
+
+6089 : 12178 -> True, collisions 4
+6089 : 12178 -> True, collisions 4
+6089 : 12178 -> True, collisions 0
+
+418 : 836 -> True, collisions 2
+418 : 836 -> True, collisions 2
+418 : 836 -> True, collisions 16
+
+4647 : 9294 -> True, collisions 0
+4647 : 9294 -> True, collisions 0
+4647 : 9294 -> True, collisions 6
+
+9069 : 18138 -> True, collisions 12
+9069 : 18138 -> True, collisions 6
+9069 : 18138 -> True, collisions 2
+
+3650 : 7300 -> True, collisions 0
+3650 : 7300 -> True, collisions 0
+3650 : 7300 -> True, collisions 0
+
+5289 : 10578 -> True, collisions 2
+5289 : 10578 -> True, collisions 2
+5289 : 10578 -> True, collisions 8
+
+9097 : 18194 -> True, collisions 0
+9097 : 18194 -> True, collisions 0
+9097 : 18194 -> True, collisions 0
+
+1349 : 2698 -> True, collisions 4
+1349 : 2698 -> True, collisions 0
+1349 : 2698 -> True, collisions 0
+
+5434 : 10868 -> True, collisions 2
+5434 : 10868 -> True, collisions 2
+5434 : 10868 -> True, collisions 8
+
+9055 : 18110 -> True, collisions 0
+9055 : 18110 -> True, collisions 0
+9055 : 18110 -> True, collisions 0
+
+7036 : 14072 -> True, collisions 14
+7036 : 14072 -> True, collisions 6
+7036 : 14072 -> True, collisions 0
+
+7696 : 15392 -> True, collisions 12
+7696 : 15392 -> True, collisions 8
+7696 : 15392 -> True, collisions 0
+
+8792 : 17584 -> True, collisions 0
+8792 : 17584 -> True, collisions 0
+8792 : 17584 -> True, collisions 0
+
+9639 : 19278 -> True, collisions 20
+9639 : 19278 -> True, collisions 0
+9639 : 19278 -> True, collisions 6
+
+8481 : 16962 -> True, collisions 2
+8481 : 16962 -> True, collisions 14
+8481 : 16962 -> True, collisions 2
+
+303 : 606 -> True, collisions 2
+303 : 606 -> True, collisions 0
+303 : 606 -> True, collisions 4
+
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+
+297 : 594 -> True, collisions 6
+297 : 594 -> True, collisions 6
+297 : 594 -> True, collisions 8
+
+7311 : 14622 -> True, collisions 0
+7311 : 14622 -> True, collisions 0
+7311 : 14622 -> True, collisions 0
+
+9916 : 19832 -> True, collisions 0
+9916 : 19832 -> True, collisions 0
+9916 : 19832 -> True, collisions 0
+
+3422 : 6844 -> True, collisions 0
+3422 : 6844 -> True, collisions 0
+3422 : 6844 -> True, collisions 0
+
+9651 : 19302 -> True, collisions 4
+9651 : 19302 -> True, collisions 0
+9651 : 19302 -> True, collisions 0
+
+9246 : 18492 -> True, collisions 0
+9246 : 18492 -> True, collisions 0
+9246 : 18492 -> True, collisions 2
+
+740 : 1480 -> True, collisions 0
+740 : 1480 -> True, collisions 0
+740 : 1480 -> True, collisions 20
+
+4185 : 8370 -> True, collisions 2
+4185 : 8370 -> True, collisions 2
+4185 : 8370 -> True, collisions 2
+
+1165 : 2330 -> True, collisions 0
+1165 : 2330 -> True, collisions 0
+1165 : 2330 -> True, collisions 0
+
+9503 : 19006 -> True, collisions 0
+9503 : 19006 -> True, collisions 0
+9503 : 19006 -> True, collisions 0
+
+1377 : 2754 -> True, collisions 24
+1377 : 2754 -> True, collisions 16
+1377 : 2754 -> True, collisions 6
+
+1583 : 3166 -> True, collisions 0
+1583 : 3166 -> True, collisions 0
+1583 : 3166 -> True, collisions 12
+
+5351 : 10702 -> True, collisions 4
+5351 : 10702 -> True, collisions 12
+5351 : 10702 -> True, collisions 6
+
+5937 : 11874 -> True, collisions 2
+5937 : 11874 -> True, collisions 12
+5937 : 11874 -> True, collisions 2
+
+111 : 222 -> True, collisions 12
+111 : 222 -> True, collisions 6
+111 : 222 -> True, collisions 2
+
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+
+5373 : 10746 -> True, collisions 0
+5373 : 10746 -> True, collisions 0
+5373 : 10746 -> True, collisions 2
+
+2908 : 5816 -> True, collisions 8
+2908 : 5816 -> True, collisions 4
+2908 : 5816 -> True, collisions 2
+
+6627 : 13254 -> True, collisions 2
+6627 : 13254 -> True, collisions 2
+6627 : 13254 -> True, collisions 2
+
+4809 : 9618 -> True, collisions 40
+4809 : 9618 -> True, collisions 10
+4809 : 9618 -> True, collisions 16
+
+4857 : 9714 -> True, collisions 16
+4857 : 9714 -> True, collisions 8
+4857 : 9714 -> True, collisions 8
+
+9368 : 18736 -> True, collisions 4
+9368 : 18736 -> True, collisions 0
+9368 : 18736 -> True, collisions 0
+
+4876 : 9752 -> True, collisions 0
+4876 : 9752 -> True, collisions 0
+4876 : 9752 -> True, collisions 0
+
+5484 : 10968 -> True, collisions 18
+5484 : 10968 -> True, collisions 0
+5484 : 10968 -> True, collisions 0
+
+3129 : 6258 -> True, collisions 4
+3129 : 6258 -> True, collisions 2
+3129 : 6258 -> True, collisions 2
+
+9101 : 18202 -> True, collisions 2
+9101 : 18202 -> True, collisions 22
+9101 : 18202 -> True, collisions 0
+
+5932 : 11864 -> True, collisions 2
+5932 : 11864 -> True, collisions 10
+5932 : 11864 -> True, collisions 14
+
+3440 : 6880 -> True, collisions 0
+3440 : 6880 -> True, collisions 0
+3440 : 6880 -> True, collisions 8
+
+8056 : 16112 -> True, collisions 0
+8056 : 16112 -> True, collisions 2
+8056 : 16112 -> True, collisions 0
+
+Linear 380 collisions
+Quadratic 282 collisions
+Double 318 collisions
+
+*** Random Order End ***
+
+*** Ascending Order Start *** 
+
+111 : 222 -> True, collisions 0
+111 : 222 -> True, collisions 0
+111 : 222 -> True, collisions 0
+
+137 : 274 -> True, collisions 0
+137 : 274 -> True, collisions 0
+137 : 274 -> True, collisions 0
+
+297 : 594 -> True, collisions 0
+297 : 594 -> True, collisions 0
+297 : 594 -> True, collisions 0
+
+303 : 606 -> True, collisions 0
+303 : 606 -> True, collisions 0
+303 : 606 -> True, collisions 0
+
+418 : 836 -> True, collisions 0
+418 : 836 -> True, collisions 0
+418 : 836 -> True, collisions 0
+
+448 : 896 -> True, collisions 0
+448 : 896 -> True, collisions 0
+448 : 896 -> True, collisions 0
+
+466 : 932 -> True, collisions 0
+466 : 932 -> True, collisions 0
+466 : 932 -> True, collisions 0
+
+496 : 992 -> True, collisions 0
+496 : 992 -> True, collisions 0
+496 : 992 -> True, collisions 0
+
+531 : 1062 -> True, collisions 0
+531 : 1062 -> True, collisions 0
+531 : 1062 -> True, collisions 0
+
+634 : 1268 -> True, collisions 0
+634 : 1268 -> True, collisions 0
+634 : 1268 -> True, collisions 0
+
+686 : 1372 -> True, collisions 0
+686 : 1372 -> True, collisions 0
+686 : 1372 -> True, collisions 0
+
+740 : 1480 -> True, collisions 0
+740 : 1480 -> True, collisions 0
+740 : 1480 -> True, collisions 0
+
+905 : 1810 -> True, collisions 2
+905 : 1810 -> True, collisions 2
+905 : 1810 -> True, collisions 2
+
+974 : 1948 -> True, collisions 0
+974 : 1948 -> True, collisions 0
+974 : 1948 -> True, collisions 0
+
+985 : 1970 -> True, collisions 0
+985 : 1970 -> True, collisions 0
+985 : 1970 -> True, collisions 0
+
+1000 : 2000 -> True, collisions 0
+1000 : 2000 -> True, collisions 0
+1000 : 2000 -> True, collisions 0
+
+1019 : 2038 -> True, collisions 0
+1019 : 2038 -> True, collisions 0
+1019 : 2038 -> True, collisions 0
+
+1165 : 2330 -> True, collisions 0
+1165 : 2330 -> True, collisions 0
+1165 : 2330 -> True, collisions 0
+
+1213 : 2426 -> True, collisions 0
+1213 : 2426 -> True, collisions 0
+1213 : 2426 -> True, collisions 0
+
+1349 : 2698 -> True, collisions 0
+1349 : 2698 -> True, collisions 0
+1349 : 2698 -> True, collisions 0
+
+1377 : 2754 -> True, collisions 0
+1377 : 2754 -> True, collisions 0
+1377 : 2754 -> True, collisions 0
+
+1390 : 2780 -> True, collisions 0
+1390 : 2780 -> True, collisions 0
+1390 : 2780 -> True, collisions 0
+
+1428 : 2856 -> True, collisions 0
+1428 : 2856 -> True, collisions 0
+1428 : 2856 -> True, collisions 0
+
+1478 : 2956 -> True, collisions 0
+1478 : 2956 -> True, collisions 0
+1478 : 2956 -> True, collisions 0
+
+1493 : 2986 -> True, collisions 0
+1493 : 2986 -> True, collisions 0
+1493 : 2986 -> True, collisions 0
+
+1549 : 3098 -> True, collisions 0
+1549 : 3098 -> True, collisions 0
+1549 : 3098 -> True, collisions 0
+
+1583 : 3166 -> True, collisions 0
+1583 : 3166 -> True, collisions 0
+1583 : 3166 -> True, collisions 0
+
+1716 : 3432 -> True, collisions 2
+1716 : 3432 -> True, collisions 2
+1716 : 3432 -> True, collisions 2
+
+1768 : 3536 -> True, collisions 0
+1768 : 3536 -> True, collisions 0
+1768 : 3536 -> True, collisions 0
+
+1778 : 3556 -> True, collisions 0
+1778 : 3556 -> True, collisions 0
+1778 : 3556 -> True, collisions 0
+
+1869 : 3738 -> True, collisions 0
+1869 : 3738 -> True, collisions 0
+1869 : 3738 -> True, collisions 0
+
+1995 : 3990 -> True, collisions 0
+1995 : 3990 -> True, collisions 0
+1995 : 3990 -> True, collisions 0
+
+1999 : 3998 -> True, collisions 4
+1999 : 3998 -> True, collisions 4
+1999 : 3998 -> True, collisions 2
+
+2013 : 4026 -> True, collisions 0
+2013 : 4026 -> True, collisions 0
+2013 : 4026 -> True, collisions 0
+
+2055 : 4110 -> True, collisions 0
+2055 : 4110 -> True, collisions 0
+2055 : 4110 -> True, collisions 0
+
+2143 : 4286 -> True, collisions 2
+2143 : 4286 -> True, collisions 2
+2143 : 4286 -> True, collisions 2
+
+2145 : 4290 -> True, collisions 0
+2145 : 4290 -> True, collisions 0
+2145 : 4290 -> True, collisions 0
+
+2176 : 4352 -> True, collisions 0
+2176 : 4352 -> True, collisions 0
+2176 : 4352 -> True, collisions 0
+
+2321 : 4642 -> True, collisions 0
+2321 : 4642 -> True, collisions 0
+2321 : 4642 -> True, collisions 0
+
+2332 : 4664 -> True, collisions 0
+2332 : 4664 -> True, collisions 0
+2332 : 4664 -> True, collisions 0
+
+2505 : 5010 -> True, collisions 0
+2505 : 5010 -> True, collisions 0
+2505 : 5010 -> True, collisions 0
+
+2648 : 5296 -> True, collisions 2
+2648 : 5296 -> True, collisions 2
+2648 : 5296 -> True, collisions 4
+
+2752 : 5504 -> True, collisions 2
+2752 : 5504 -> True, collisions 2
+2752 : 5504 -> True, collisions 2
+
+2826 : 5652 -> True, collisions 0
+2826 : 5652 -> True, collisions 0
+2826 : 5652 -> True, collisions 4
+
+2904 : 5808 -> True, collisions 2
+2904 : 5808 -> True, collisions 2
+2904 : 5808 -> True, collisions 0
+
+2908 : 5816 -> True, collisions 0
+2908 : 5816 -> True, collisions 0
+2908 : 5816 -> True, collisions 0
+
+3127 : 6254 -> True, collisions 0
+3127 : 6254 -> True, collisions 0
+3127 : 6254 -> True, collisions 0
+
+3129 : 6258 -> True, collisions 0
+3129 : 6258 -> True, collisions 0
+3129 : 6258 -> True, collisions 0
+
+3139 : 6278 -> True, collisions 0
+3139 : 6278 -> True, collisions 0
+3139 : 6278 -> True, collisions 0
+
+3221 : 6442 -> True, collisions 0
+3221 : 6442 -> True, collisions 0
+3221 : 6442 -> True, collisions 0
+
+3365 : 6730 -> True, collisions 0
+3365 : 6730 -> True, collisions 0
+3365 : 6730 -> True, collisions 0
+
+3422 : 6844 -> True, collisions 0
+3422 : 6844 -> True, collisions 0
+3422 : 6844 -> True, collisions 0
+
+3440 : 6880 -> True, collisions 0
+3440 : 6880 -> True, collisions 0
+3440 : 6880 -> True, collisions 0
+
+3539 : 7078 -> True, collisions 0
+3539 : 7078 -> True, collisions 0
+3539 : 7078 -> True, collisions 0
+
+3566 : 7132 -> True, collisions 0
+3566 : 7132 -> True, collisions 0
+3566 : 7132 -> True, collisions 0
+
+3608 : 7216 -> True, collisions 6
+3608 : 7216 -> True, collisions 6
+3608 : 7216 -> True, collisions 2
+
+3650 : 7300 -> True, collisions 0
+3650 : 7300 -> True, collisions 0
+3650 : 7300 -> True, collisions 0
+
+3685 : 7370 -> True, collisions 0
+3685 : 7370 -> True, collisions 0
+3685 : 7370 -> True, collisions 0
+
+3725 : 7450 -> True, collisions 0
+3725 : 7450 -> True, collisions 0
+3725 : 7450 -> True, collisions 0
+
+3769 : 7538 -> True, collisions 0
+3769 : 7538 -> True, collisions 0
+3769 : 7538 -> True, collisions 0
+
+3834 : 7668 -> True, collisions 2
+3834 : 7668 -> True, collisions 2
+3834 : 7668 -> True, collisions 0
+
+3850 : 7700 -> True, collisions 0
+3850 : 7700 -> True, collisions 0
+3850 : 7700 -> True, collisions 0
+
+3875 : 7750 -> True, collisions 4
+3875 : 7750 -> True, collisions 4
+3875 : 7750 -> True, collisions 2
+
+3878 : 7756 -> True, collisions 6
+3878 : 7756 -> True, collisions 8
+3878 : 7756 -> True, collisions 2
+
+4005 : 8010 -> True, collisions 0
+4005 : 8010 -> True, collisions 0
+4005 : 8010 -> True, collisions 0
+
+4185 : 8370 -> True, collisions 0
+4185 : 8370 -> True, collisions 0
+4185 : 8370 -> True, collisions 0
+
+4347 : 8694 -> True, collisions 2
+4347 : 8694 -> True, collisions 4
+4347 : 8694 -> True, collisions 8
+
+4643 : 9286 -> True, collisions 4
+4643 : 9286 -> True, collisions 6
+4643 : 9286 -> True, collisions 6
+
+4647 : 9294 -> True, collisions 0
+4647 : 9294 -> True, collisions 0
+4647 : 9294 -> True, collisions 0
+
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+
+4809 : 9618 -> True, collisions 10
+4809 : 9618 -> True, collisions 2
+4809 : 9618 -> True, collisions 2
+
+4857 : 9714 -> True, collisions 0
+4857 : 9714 -> True, collisions 0
+4857 : 9714 -> True, collisions 0
+
+4876 : 9752 -> True, collisions 0
+4876 : 9752 -> True, collisions 0
+4876 : 9752 -> True, collisions 0
+
+4941 : 9882 -> True, collisions 0
+4941 : 9882 -> True, collisions 0
+4941 : 9882 -> True, collisions 0
+
+5019 : 10038 -> True, collisions 0
+5019 : 10038 -> True, collisions 0
+5019 : 10038 -> True, collisions 0
+
+5056 : 10112 -> True, collisions 0
+5056 : 10112 -> True, collisions 0
+5056 : 10112 -> True, collisions 0
+
+5061 : 10122 -> True, collisions 2
+5061 : 10122 -> True, collisions 2
+5061 : 10122 -> True, collisions 2
+
+5112 : 10224 -> True, collisions 8
+5112 : 10224 -> True, collisions 8
+5112 : 10224 -> True, collisions 2
+
+5232 : 10464 -> True, collisions 0
+5232 : 10464 -> True, collisions 0
+5232 : 10464 -> True, collisions 0
+
+5289 : 10578 -> True, collisions 2
+5289 : 10578 -> True, collisions 2
+5289 : 10578 -> True, collisions 2
+
+5351 : 10702 -> True, collisions 0
+5351 : 10702 -> True, collisions 0
+5351 : 10702 -> True, collisions 0
+
+5373 : 10746 -> True, collisions 0
+5373 : 10746 -> True, collisions 0
+5373 : 10746 -> True, collisions 0
+
+5425 : 10850 -> True, collisions 0
+5425 : 10850 -> True, collisions 2
+5425 : 10850 -> True, collisions 0
+
+5434 : 10868 -> True, collisions 2
+5434 : 10868 -> True, collisions 2
+5434 : 10868 -> True, collisions 2
+
+5484 : 10968 -> True, collisions 0
+5484 : 10968 -> True, collisions 0
+5484 : 10968 -> True, collisions 0
+
+5782 : 11564 -> True, collisions 4
+5782 : 11564 -> True, collisions 4
+5782 : 11564 -> True, collisions 2
+
+5806 : 11612 -> True, collisions 0
+5806 : 11612 -> True, collisions 0
+5806 : 11612 -> True, collisions 0
+
+5932 : 11864 -> True, collisions 2
+5932 : 11864 -> True, collisions 2
+5932 : 11864 -> True, collisions 6
+
+5937 : 11874 -> True, collisions 2
+5937 : 11874 -> True, collisions 2
+5937 : 11874 -> True, collisions 2
+
+5950 : 11900 -> True, collisions 0
+5950 : 11900 -> True, collisions 0
+5950 : 11900 -> True, collisions 0
+
+6026 : 12052 -> True, collisions 0
+6026 : 12052 -> True, collisions 2
+6026 : 12052 -> True, collisions 0
+
+6050 : 12100 -> True, collisions 0
+6050 : 12100 -> True, collisions 0
+6050 : 12100 -> True, collisions 0
+
+6089 : 12178 -> True, collisions 2
+6089 : 12178 -> True, collisions 0
+6089 : 12178 -> True, collisions 0
+
+6318 : 12636 -> True, collisions 2
+6318 : 12636 -> True, collisions 2
+6318 : 12636 -> True, collisions 4
+
+6360 : 12720 -> True, collisions 2
+6360 : 12720 -> True, collisions 2
+6360 : 12720 -> True, collisions 2
+
+6611 : 13222 -> True, collisions 0
+6611 : 13222 -> True, collisions 0
+6611 : 13222 -> True, collisions 0
+
+6627 : 13254 -> True, collisions 2
+6627 : 13254 -> True, collisions 2
+6627 : 13254 -> True, collisions 4
+
+6662 : 13324 -> True, collisions 0
+6662 : 13324 -> True, collisions 0
+6662 : 13324 -> True, collisions 4
+
+6690 : 13380 -> True, collisions 0
+6690 : 13380 -> True, collisions 0
+6690 : 13380 -> True, collisions 4
+
+6737 : 13474 -> True, collisions 0
+6737 : 13474 -> True, collisions 0
+6737 : 13474 -> True, collisions 0
+
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+
+6805 : 13610 -> True, collisions 4
+6805 : 13610 -> True, collisions 8
+6805 : 13610 -> True, collisions 2
+
+6928 : 13856 -> True, collisions 2
+6928 : 13856 -> True, collisions 2
+6928 : 13856 -> True, collisions 6
+
+6971 : 13942 -> True, collisions 0
+6971 : 13942 -> True, collisions 0
+6971 : 13942 -> True, collisions 0
+
+7010 : 14020 -> True, collisions 6
+7010 : 14020 -> True, collisions 6
+7010 : 14020 -> True, collisions 2
+
+7036 : 14072 -> True, collisions 12
+7036 : 14072 -> True, collisions 6
+7036 : 14072 -> True, collisions 0
+
+7083 : 14166 -> True, collisions 0
+7083 : 14166 -> True, collisions 0
+7083 : 14166 -> True, collisions 0
+
+7204 : 14408 -> True, collisions 4
+7204 : 14408 -> True, collisions 4
+7204 : 14408 -> True, collisions 8
+
+7311 : 14622 -> True, collisions 4
+7311 : 14622 -> True, collisions 6
+7311 : 14622 -> True, collisions 2
+
+7393 : 14786 -> True, collisions 6
+7393 : 14786 -> True, collisions 6
+7393 : 14786 -> True, collisions 8
+
+7465 : 14930 -> True, collisions 8
+7465 : 14930 -> True, collisions 0
+7465 : 14930 -> True, collisions 0
+
+7487 : 14974 -> True, collisions 2
+7487 : 14974 -> True, collisions 4
+7487 : 14974 -> True, collisions 6
+
+7602 : 15204 -> True, collisions 6
+7602 : 15204 -> True, collisions 4
+7602 : 15204 -> True, collisions 12
+
+7696 : 15392 -> True, collisions 14
+7696 : 15392 -> True, collisions 4
+7696 : 15392 -> True, collisions 0
+
+7810 : 15620 -> True, collisions 0
+7810 : 15620 -> True, collisions 0
+7810 : 15620 -> True, collisions 2
+
+7906 : 15812 -> True, collisions 4
+7906 : 15812 -> True, collisions 2
+7906 : 15812 -> True, collisions 6
+
+8007 : 16014 -> True, collisions 2
+8007 : 16014 -> True, collisions 2
+8007 : 16014 -> True, collisions 2
+
+8056 : 16112 -> True, collisions 0
+8056 : 16112 -> True, collisions 0
+8056 : 16112 -> True, collisions 0
+
+8079 : 16158 -> True, collisions 4
+8079 : 16158 -> True, collisions 0
+8079 : 16158 -> True, collisions 0
+
+8121 : 16242 -> True, collisions 0
+8121 : 16242 -> True, collisions 0
+8121 : 16242 -> True, collisions 2
+
+8191 : 16382 -> True, collisions 2
+8191 : 16382 -> True, collisions 2
+8191 : 16382 -> True, collisions 6
+
+8300 : 16600 -> True, collisions 8
+8300 : 16600 -> True, collisions 4
+8300 : 16600 -> True, collisions 2
+
+8385 : 16770 -> True, collisions 0
+8385 : 16770 -> True, collisions 0
+8385 : 16770 -> True, collisions 0
+
+8478 : 16956 -> True, collisions 0
+8478 : 16956 -> True, collisions 0
+8478 : 16956 -> True, collisions 0
+
+8481 : 16962 -> True, collisions 2
+8481 : 16962 -> True, collisions 2
+8481 : 16962 -> True, collisions 2
+
+8555 : 17110 -> True, collisions 0
+8555 : 17110 -> True, collisions 0
+8555 : 17110 -> True, collisions 10
+
+8577 : 17154 -> True, collisions 16
+8577 : 17154 -> True, collisions 6
+8577 : 17154 -> True, collisions 2
+
+8621 : 17242 -> True, collisions 4
+8621 : 17242 -> True, collisions 16
+8621 : 17242 -> True, collisions 4
+
+8640 : 17280 -> True, collisions 18
+8640 : 17280 -> True, collisions 14
+8640 : 17280 -> True, collisions 2
+
+8685 : 17370 -> True, collisions 16
+8685 : 17370 -> True, collisions 8
+8685 : 17370 -> True, collisions 10
+
+8686 : 17372 -> True, collisions 0
+8686 : 17372 -> True, collisions 0
+8686 : 17372 -> True, collisions 4
+
+8690 : 17380 -> True, collisions 12
+8690 : 17380 -> True, collisions 2
+8690 : 17380 -> True, collisions 0
+
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 2
+
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 2
+
+8729 : 17458 -> True, collisions 4
+8729 : 17458 -> True, collisions 0
+8729 : 17458 -> True, collisions 0
+
+8792 : 17584 -> True, collisions 0
+8792 : 17584 -> True, collisions 0
+8792 : 17584 -> True, collisions 0
+
+8929 : 17858 -> True, collisions 2
+8929 : 17858 -> True, collisions 2
+8929 : 17858 -> True, collisions 4
+
+9051 : 18102 -> True, collisions 6
+9051 : 18102 -> True, collisions 8
+9051 : 18102 -> True, collisions 0
+
+9055 : 18110 -> True, collisions 0
+9055 : 18110 -> True, collisions 0
+9055 : 18110 -> True, collisions 10
+
+9069 : 18138 -> True, collisions 18
+9069 : 18138 -> True, collisions 8
+9069 : 18138 -> True, collisions 16
+
+9097 : 18194 -> True, collisions 0
+9097 : 18194 -> True, collisions 0
+9097 : 18194 -> True, collisions 0
+
+9101 : 18202 -> True, collisions 0
+9101 : 18202 -> True, collisions 2
+9101 : 18202 -> True, collisions 0
+
+9146 : 18292 -> True, collisions 0
+9146 : 18292 -> True, collisions 0
+9146 : 18292 -> True, collisions 2
+
+9171 : 18342 -> True, collisions 6
+9171 : 18342 -> True, collisions 24
+9171 : 18342 -> True, collisions 6
+
+9226 : 18452 -> True, collisions 2
+9226 : 18452 -> True, collisions 2
+9226 : 18452 -> True, collisions 28
+
+9241 : 18482 -> True, collisions 2
+9241 : 18482 -> True, collisions 2
+9241 : 18482 -> True, collisions 4
+
+9246 : 18492 -> True, collisions 2
+9246 : 18492 -> True, collisions 2
+9246 : 18492 -> True, collisions 2
+
+9250 : 18500 -> True, collisions 2
+9250 : 18500 -> True, collisions 16
+9250 : 18500 -> True, collisions 6
+
+9368 : 18736 -> True, collisions 4
+9368 : 18736 -> True, collisions 0
+9368 : 18736 -> True, collisions 2
+
+9503 : 19006 -> True, collisions 2
+9503 : 19006 -> True, collisions 2
+9503 : 19006 -> True, collisions 2
+
+9639 : 19278 -> True, collisions 38
+9639 : 19278 -> True, collisions 10
+9639 : 19278 -> True, collisions 22
+
+9651 : 19302 -> True, collisions 4
+9651 : 19302 -> True, collisions 0
+9651 : 19302 -> True, collisions 6
+
+9659 : 19318 -> True, collisions 22
+9659 : 19318 -> True, collisions 10
+9659 : 19318 -> True, collisions 4
+
+9713 : 19426 -> True, collisions 0
+9713 : 19426 -> True, collisions 0
+9713 : 19426 -> True, collisions 0
+
+9767 : 19534 -> True, collisions 0
+9767 : 19534 -> True, collisions 0
+9767 : 19534 -> True, collisions 0
+
+9885 : 19770 -> True, collisions 24
+9885 : 19770 -> True, collisions 2
+9885 : 19770 -> True, collisions 0
+
+9916 : 19832 -> True, collisions 0
+9916 : 19832 -> True, collisions 0
+9916 : 19832 -> True, collisions 0
+
+9925 : 19850 -> True, collisions 6
+9925 : 19850 -> True, collisions 16
+9925 : 19850 -> True, collisions 12
+
+Linear 380 collisions
+Quadratic 294 collisions
+Double 306 collisions
+
+*** Ascending Order End ***
+
+*** Descending Order Start *** 
+
+9925 : 19850 -> True, collisions 0
+9925 : 19850 -> True, collisions 0
+9925 : 19850 -> True, collisions 0
+
+9916 : 19832 -> True, collisions 0
+9916 : 19832 -> True, collisions 0
+9916 : 19832 -> True, collisions 0
+
+9885 : 19770 -> True, collisions 0
+9885 : 19770 -> True, collisions 0
+9885 : 19770 -> True, collisions 0
+
+9767 : 19534 -> True, collisions 0
+9767 : 19534 -> True, collisions 0
+9767 : 19534 -> True, collisions 0
+
+9713 : 19426 -> True, collisions 0
+9713 : 19426 -> True, collisions 0
+9713 : 19426 -> True, collisions 0
+
+9659 : 19318 -> True, collisions 0
+9659 : 19318 -> True, collisions 0
+9659 : 19318 -> True, collisions 0
+
+9651 : 19302 -> True, collisions 0
+9651 : 19302 -> True, collisions 0
+9651 : 19302 -> True, collisions 0
+
+9639 : 19278 -> True, collisions 0
+9639 : 19278 -> True, collisions 0
+9639 : 19278 -> True, collisions 0
+
+9503 : 19006 -> True, collisions 0
+9503 : 19006 -> True, collisions 0
+9503 : 19006 -> True, collisions 0
+
+9368 : 18736 -> True, collisions 0
+9368 : 18736 -> True, collisions 0
+9368 : 18736 -> True, collisions 0
+
+9250 : 18500 -> True, collisions 0
+9250 : 18500 -> True, collisions 0
+9250 : 18500 -> True, collisions 0
+
+9246 : 18492 -> True, collisions 0
+9246 : 18492 -> True, collisions 0
+9246 : 18492 -> True, collisions 0
+
+9241 : 18482 -> True, collisions 0
+9241 : 18482 -> True, collisions 0
+9241 : 18482 -> True, collisions 0
+
+9226 : 18452 -> True, collisions 0
+9226 : 18452 -> True, collisions 0
+9226 : 18452 -> True, collisions 0
+
+9171 : 18342 -> True, collisions 0
+9171 : 18342 -> True, collisions 0
+9171 : 18342 -> True, collisions 0
+
+9146 : 18292 -> True, collisions 0
+9146 : 18292 -> True, collisions 0
+9146 : 18292 -> True, collisions 0
+
+9101 : 18202 -> True, collisions 0
+9101 : 18202 -> True, collisions 0
+9101 : 18202 -> True, collisions 0
+
+9097 : 18194 -> True, collisions 0
+9097 : 18194 -> True, collisions 0
+9097 : 18194 -> True, collisions 0
+
+9069 : 18138 -> True, collisions 0
+9069 : 18138 -> True, collisions 0
+9069 : 18138 -> True, collisions 0
+
+9055 : 18110 -> True, collisions 0
+9055 : 18110 -> True, collisions 0
+9055 : 18110 -> True, collisions 0
+
+9051 : 18102 -> True, collisions 0
+9051 : 18102 -> True, collisions 0
+9051 : 18102 -> True, collisions 0
+
+8929 : 17858 -> True, collisions 0
+8929 : 17858 -> True, collisions 0
+8929 : 17858 -> True, collisions 0
+
+8792 : 17584 -> True, collisions 0
+8792 : 17584 -> True, collisions 0
+8792 : 17584 -> True, collisions 0
+
+8729 : 17458 -> True, collisions 0
+8729 : 17458 -> True, collisions 0
+8729 : 17458 -> True, collisions 0
+
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+8701 : 17402 -> True, collisions 0
+
+8690 : 17380 -> True, collisions 0
+8690 : 17380 -> True, collisions 0
+8690 : 17380 -> True, collisions 0
+
+8686 : 17372 -> True, collisions 0
+8686 : 17372 -> True, collisions 0
+8686 : 17372 -> True, collisions 0
+
+8685 : 17370 -> True, collisions 2
+8685 : 17370 -> True, collisions 2
+8685 : 17370 -> True, collisions 2
+
+8640 : 17280 -> True, collisions 0
+8640 : 17280 -> True, collisions 0
+8640 : 17280 -> True, collisions 0
+
+8621 : 17242 -> True, collisions 0
+8621 : 17242 -> True, collisions 0
+8621 : 17242 -> True, collisions 0
+
+8577 : 17154 -> True, collisions 0
+8577 : 17154 -> True, collisions 0
+8577 : 17154 -> True, collisions 0
+
+8555 : 17110 -> True, collisions 0
+8555 : 17110 -> True, collisions 0
+8555 : 17110 -> True, collisions 0
+
+8481 : 16962 -> True, collisions 0
+8481 : 16962 -> True, collisions 0
+8481 : 16962 -> True, collisions 0
+
+8478 : 16956 -> True, collisions 0
+8478 : 16956 -> True, collisions 0
+8478 : 16956 -> True, collisions 0
+
+8385 : 16770 -> True, collisions 0
+8385 : 16770 -> True, collisions 0
+8385 : 16770 -> True, collisions 0
+
+8300 : 16600 -> True, collisions 0
+8300 : 16600 -> True, collisions 0
+8300 : 16600 -> True, collisions 2
+
+8191 : 16382 -> True, collisions 0
+8191 : 16382 -> True, collisions 0
+8191 : 16382 -> True, collisions 0
+
+8121 : 16242 -> True, collisions 0
+8121 : 16242 -> True, collisions 0
+8121 : 16242 -> True, collisions 0
+
+8079 : 16158 -> True, collisions 0
+8079 : 16158 -> True, collisions 0
+8079 : 16158 -> True, collisions 0
+
+8056 : 16112 -> True, collisions 0
+8056 : 16112 -> True, collisions 0
+8056 : 16112 -> True, collisions 0
+
+8007 : 16014 -> True, collisions 4
+8007 : 16014 -> True, collisions 4
+8007 : 16014 -> True, collisions 2
+
+7906 : 15812 -> True, collisions 0
+7906 : 15812 -> True, collisions 0
+7906 : 15812 -> True, collisions 0
+
+7810 : 15620 -> True, collisions 0
+7810 : 15620 -> True, collisions 0
+7810 : 15620 -> True, collisions 0
+
+7696 : 15392 -> True, collisions 0
+7696 : 15392 -> True, collisions 0
+7696 : 15392 -> True, collisions 0
+
+7602 : 15204 -> True, collisions 0
+7602 : 15204 -> True, collisions 0
+7602 : 15204 -> True, collisions 0
+
+7487 : 14974 -> True, collisions 0
+7487 : 14974 -> True, collisions 0
+7487 : 14974 -> True, collisions 0
+
+7465 : 14930 -> True, collisions 0
+7465 : 14930 -> True, collisions 0
+7465 : 14930 -> True, collisions 0
+
+7393 : 14786 -> True, collisions 0
+7393 : 14786 -> True, collisions 0
+7393 : 14786 -> True, collisions 0
+
+7311 : 14622 -> True, collisions 0
+7311 : 14622 -> True, collisions 0
+7311 : 14622 -> True, collisions 0
+
+7204 : 14408 -> True, collisions 0
+7204 : 14408 -> True, collisions 0
+7204 : 14408 -> True, collisions 0
+
+7083 : 14166 -> True, collisions 0
+7083 : 14166 -> True, collisions 4
+7083 : 14166 -> True, collisions 0
+
+7036 : 14072 -> True, collisions 0
+7036 : 14072 -> True, collisions 0
+7036 : 14072 -> True, collisions 0
+
+7010 : 14020 -> True, collisions 0
+7010 : 14020 -> True, collisions 0
+7010 : 14020 -> True, collisions 0
+
+6971 : 13942 -> True, collisions 0
+6971 : 13942 -> True, collisions 0
+6971 : 13942 -> True, collisions 0
+
+6928 : 13856 -> True, collisions 0
+6928 : 13856 -> True, collisions 0
+6928 : 13856 -> True, collisions 0
+
+6805 : 13610 -> True, collisions 0
+6805 : 13610 -> True, collisions 0
+6805 : 13610 -> True, collisions 0
+
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+6762 : 13524 -> True, collisions 0
+
+6737 : 13474 -> True, collisions 0
+6737 : 13474 -> True, collisions 0
+6737 : 13474 -> True, collisions 0
+
+6690 : 13380 -> True, collisions 0
+6690 : 13380 -> True, collisions 0
+6690 : 13380 -> True, collisions 0
+
+6662 : 13324 -> True, collisions 0
+6662 : 13324 -> True, collisions 0
+6662 : 13324 -> True, collisions 0
+
+6627 : 13254 -> True, collisions 0
+6627 : 13254 -> True, collisions 0
+6627 : 13254 -> True, collisions 0
+
+6611 : 13222 -> True, collisions 0
+6611 : 13222 -> True, collisions 0
+6611 : 13222 -> True, collisions 0
+
+6360 : 12720 -> True, collisions 0
+6360 : 12720 -> True, collisions 0
+6360 : 12720 -> True, collisions 0
+
+6318 : 12636 -> True, collisions 6
+6318 : 12636 -> True, collisions 4
+6318 : 12636 -> True, collisions 4
+
+6089 : 12178 -> True, collisions 0
+6089 : 12178 -> True, collisions 0
+6089 : 12178 -> True, collisions 0
+
+6050 : 12100 -> True, collisions 0
+6050 : 12100 -> True, collisions 0
+6050 : 12100 -> True, collisions 0
+
+6026 : 12052 -> True, collisions 2
+6026 : 12052 -> True, collisions 2
+6026 : 12052 -> True, collisions 4
+
+5950 : 11900 -> True, collisions 4
+5950 : 11900 -> True, collisions 4
+5950 : 11900 -> True, collisions 2
+
+5937 : 11874 -> True, collisions 0
+5937 : 11874 -> True, collisions 0
+5937 : 11874 -> True, collisions 0
+
+5932 : 11864 -> True, collisions 0
+5932 : 11864 -> True, collisions 0
+5932 : 11864 -> True, collisions 0
+
+5806 : 11612 -> True, collisions 12
+5806 : 11612 -> True, collisions 6
+5806 : 11612 -> True, collisions 4
+
+5782 : 11564 -> True, collisions 0
+5782 : 11564 -> True, collisions 0
+5782 : 11564 -> True, collisions 0
+
+5484 : 10968 -> True, collisions 0
+5484 : 10968 -> True, collisions 2
+5484 : 10968 -> True, collisions 4
+
+5434 : 10868 -> True, collisions 6
+5434 : 10868 -> True, collisions 0
+5434 : 10868 -> True, collisions 0
+
+5425 : 10850 -> True, collisions 0
+5425 : 10850 -> True, collisions 0
+5425 : 10850 -> True, collisions 0
+
+5373 : 10746 -> True, collisions 0
+5373 : 10746 -> True, collisions 0
+5373 : 10746 -> True, collisions 0
+
+5351 : 10702 -> True, collisions 4
+5351 : 10702 -> True, collisions 6
+5351 : 10702 -> True, collisions 4
+
+5289 : 10578 -> True, collisions 0
+5289 : 10578 -> True, collisions 0
+5289 : 10578 -> True, collisions 0
+
+5232 : 10464 -> True, collisions 4
+5232 : 10464 -> True, collisions 2
+5232 : 10464 -> True, collisions 2
+
+5112 : 10224 -> True, collisions 0
+5112 : 10224 -> True, collisions 0
+5112 : 10224 -> True, collisions 6
+
+5061 : 10122 -> True, collisions 0
+5061 : 10122 -> True, collisions 0
+5061 : 10122 -> True, collisions 0
+
+5056 : 10112 -> True, collisions 0
+5056 : 10112 -> True, collisions 0
+5056 : 10112 -> True, collisions 0
+
+5019 : 10038 -> True, collisions 0
+5019 : 10038 -> True, collisions 0
+5019 : 10038 -> True, collisions 0
+
+4941 : 9882 -> True, collisions 2
+4941 : 9882 -> True, collisions 2
+4941 : 9882 -> True, collisions 2
+
+4876 : 9752 -> True, collisions 0
+4876 : 9752 -> True, collisions 0
+4876 : 9752 -> True, collisions 0
+
+4857 : 9714 -> True, collisions 16
+4857 : 9714 -> True, collisions 6
+4857 : 9714 -> True, collisions 2
+
+4809 : 9618 -> True, collisions 0
+4809 : 9618 -> True, collisions 0
+4809 : 9618 -> True, collisions 0
+
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+4768 : 9536 -> True, collisions 0
+
+4647 : 9294 -> True, collisions 0
+4647 : 9294 -> True, collisions 0
+4647 : 9294 -> True, collisions 0
+
+4643 : 9286 -> True, collisions 4
+4643 : 9286 -> True, collisions 4
+4643 : 9286 -> True, collisions 4
+
+4347 : 8694 -> True, collisions 8
+4347 : 8694 -> True, collisions 6
+4347 : 8694 -> True, collisions 2
+
+4185 : 8370 -> True, collisions 2
+4185 : 8370 -> True, collisions 2
+4185 : 8370 -> True, collisions 2
+
+4005 : 8010 -> True, collisions 0
+4005 : 8010 -> True, collisions 0
+4005 : 8010 -> True, collisions 0
+
+3878 : 7756 -> True, collisions 0
+3878 : 7756 -> True, collisions 0
+3878 : 7756 -> True, collisions 0
+
+3875 : 7750 -> True, collisions 16
+3875 : 7750 -> True, collisions 6
+3875 : 7750 -> True, collisions 4
+
+3850 : 7700 -> True, collisions 2
+3850 : 7700 -> True, collisions 2
+3850 : 7700 -> True, collisions 4
+
+3834 : 7668 -> True, collisions 2
+3834 : 7668 -> True, collisions 2
+3834 : 7668 -> True, collisions 4
+
+3769 : 7538 -> True, collisions 0
+3769 : 7538 -> True, collisions 0
+3769 : 7538 -> True, collisions 0
+
+3725 : 7450 -> True, collisions 0
+3725 : 7450 -> True, collisions 0
+3725 : 7450 -> True, collisions 0
+
+3685 : 7370 -> True, collisions 0
+3685 : 7370 -> True, collisions 0
+3685 : 7370 -> True, collisions 0
+
+3650 : 7300 -> True, collisions 2
+3650 : 7300 -> True, collisions 2
+3650 : 7300 -> True, collisions 2
+
+3608 : 7216 -> True, collisions 2
+3608 : 7216 -> True, collisions 4
+3608 : 7216 -> True, collisions 2
+
+3566 : 7132 -> True, collisions 0
+3566 : 7132 -> True, collisions 0
+3566 : 7132 -> True, collisions 0
+
+3539 : 7078 -> True, collisions 0
+3539 : 7078 -> True, collisions 0
+3539 : 7078 -> True, collisions 0
+
+3440 : 6880 -> True, collisions 0
+3440 : 6880 -> True, collisions 0
+3440 : 6880 -> True, collisions 8
+
+3422 : 6844 -> True, collisions 0
+3422 : 6844 -> True, collisions 0
+3422 : 6844 -> True, collisions 0
+
+3365 : 6730 -> True, collisions 0
+3365 : 6730 -> True, collisions 0
+3365 : 6730 -> True, collisions 0
+
+3221 : 6442 -> True, collisions 4
+3221 : 6442 -> True, collisions 12
+3221 : 6442 -> True, collisions 6
+
+3139 : 6278 -> True, collisions 0
+3139 : 6278 -> True, collisions 0
+3139 : 6278 -> True, collisions 0
+
+3129 : 6258 -> True, collisions 4
+3129 : 6258 -> True, collisions 2
+3129 : 6258 -> True, collisions 2
+
+3127 : 6254 -> True, collisions 0
+3127 : 6254 -> True, collisions 0
+3127 : 6254 -> True, collisions 2
+
+2908 : 5816 -> True, collisions 6
+2908 : 5816 -> True, collisions 4
+2908 : 5816 -> True, collisions 2
+
+2904 : 5808 -> True, collisions 2
+2904 : 5808 -> True, collisions 2
+2904 : 5808 -> True, collisions 4
+
+2826 : 5652 -> True, collisions 0
+2826 : 5652 -> True, collisions 0
+2826 : 5652 -> True, collisions 4
+
+2752 : 5504 -> True, collisions 8
+2752 : 5504 -> True, collisions 8
+2752 : 5504 -> True, collisions 8
+
+2648 : 5296 -> True, collisions 0
+2648 : 5296 -> True, collisions 0
+2648 : 5296 -> True, collisions 0
+
+2505 : 5010 -> True, collisions 0
+2505 : 5010 -> True, collisions 0
+2505 : 5010 -> True, collisions 0
+
+2332 : 4664 -> True, collisions 2
+2332 : 4664 -> True, collisions 2
+2332 : 4664 -> True, collisions 12
+
+2321 : 4642 -> True, collisions 12
+2321 : 4642 -> True, collisions 10
+2321 : 4642 -> True, collisions 2
+
+2176 : 4352 -> True, collisions 2
+2176 : 4352 -> True, collisions 2
+2176 : 4352 -> True, collisions 2
+
+2145 : 4290 -> True, collisions 12
+2145 : 4290 -> True, collisions 0
+2145 : 4290 -> True, collisions 0
+
+2143 : 4286 -> True, collisions 2
+2143 : 4286 -> True, collisions 2
+2143 : 4286 -> True, collisions 4
+
+2055 : 4110 -> True, collisions 0
+2055 : 4110 -> True, collisions 0
+2055 : 4110 -> True, collisions 0
+
+2013 : 4026 -> True, collisions 6
+2013 : 4026 -> True, collisions 4
+2013 : 4026 -> True, collisions 2
+
+1999 : 3998 -> True, collisions 4
+1999 : 3998 -> True, collisions 8
+1999 : 3998 -> True, collisions 6
+
+1995 : 3990 -> True, collisions 6
+1995 : 3990 -> True, collisions 4
+1995 : 3990 -> True, collisions 4
+
+1869 : 3738 -> True, collisions 12
+1869 : 3738 -> True, collisions 12
+1869 : 3738 -> True, collisions 4
+
+1778 : 3556 -> True, collisions 12
+1778 : 3556 -> True, collisions 14
+1778 : 3556 -> True, collisions 4
+
+1768 : 3536 -> True, collisions 4
+1768 : 3536 -> True, collisions 2
+1768 : 3536 -> True, collisions 0
+
+1716 : 3432 -> True, collisions 20
+1716 : 3432 -> True, collisions 16
+1716 : 3432 -> True, collisions 8
+
+1583 : 3166 -> True, collisions 0
+1583 : 3166 -> True, collisions 0
+1583 : 3166 -> True, collisions 16
+
+1549 : 3098 -> True, collisions 4
+1549 : 3098 -> True, collisions 2
+1549 : 3098 -> True, collisions 0
+
+1493 : 2986 -> True, collisions 0
+1493 : 2986 -> True, collisions 0
+1493 : 2986 -> True, collisions 12
+
+1478 : 2956 -> True, collisions 2
+1478 : 2956 -> True, collisions 2
+1478 : 2956 -> True, collisions 10
+
+1428 : 2856 -> True, collisions 0
+1428 : 2856 -> True, collisions 0
+1428 : 2856 -> True, collisions 0
+
+1390 : 2780 -> True, collisions 2
+1390 : 2780 -> True, collisions 2
+1390 : 2780 -> True, collisions 4
+
+1377 : 2754 -> True, collisions 24
+1377 : 2754 -> True, collisions 36
+1377 : 2754 -> True, collisions 6
+
+1349 : 2698 -> True, collisions 4
+1349 : 2698 -> True, collisions 0
+1349 : 2698 -> True, collisions 0
+
+1213 : 2426 -> True, collisions 0
+1213 : 2426 -> True, collisions 0
+1213 : 2426 -> True, collisions 4
+
+1165 : 2330 -> True, collisions 0
+1165 : 2330 -> True, collisions 0
+1165 : 2330 -> True, collisions 0
+
+1019 : 2038 -> True, collisions 6
+1019 : 2038 -> True, collisions 16
+1019 : 2038 -> True, collisions 8
+
+1000 : 2000 -> True, collisions 0
+1000 : 2000 -> True, collisions 0
+1000 : 2000 -> True, collisions 0
+
+985 : 1970 -> True, collisions 4
+985 : 1970 -> True, collisions 2
+985 : 1970 -> True, collisions 12
+
+974 : 1948 -> True, collisions 2
+974 : 1948 -> True, collisions 2
+974 : 1948 -> True, collisions 22
+
+905 : 1810 -> True, collisions 0
+905 : 1810 -> True, collisions 0
+905 : 1810 -> True, collisions 0
+
+740 : 1480 -> True, collisions 2
+740 : 1480 -> True, collisions 2
+740 : 1480 -> True, collisions 20
+
+686 : 1372 -> True, collisions 8
+686 : 1372 -> True, collisions 28
+686 : 1372 -> True, collisions 12
+
+634 : 1268 -> True, collisions 0
+634 : 1268 -> True, collisions 0
+634 : 1268 -> True, collisions 0
+
+531 : 1062 -> True, collisions 22
+531 : 1062 -> True, collisions 4
+531 : 1062 -> True, collisions 8
+
+496 : 992 -> True, collisions 0
+496 : 992 -> True, collisions 0
+496 : 992 -> True, collisions 12
+
+466 : 932 -> True, collisions 40
+466 : 932 -> True, collisions 14
+466 : 932 -> True, collisions 4
+
+448 : 896 -> True, collisions 16
+448 : 896 -> True, collisions 8
+448 : 896 -> True, collisions 0
+
+418 : 836 -> True, collisions 2
+418 : 836 -> True, collisions 2
+418 : 836 -> True, collisions 20
+
+303 : 606 -> True, collisions 2
+303 : 606 -> True, collisions 0
+303 : 606 -> True, collisions 4
+
+297 : 594 -> True, collisions 6
+297 : 594 -> True, collisions 24
+297 : 594 -> True, collisions 8
+
+137 : 274 -> True, collisions 2
+137 : 274 -> True, collisions 44
+137 : 274 -> True, collisions 0
+
+111 : 222 -> True, collisions 14
+111 : 222 -> True, collisions 6
+111 : 222 -> True, collisions 2
+
+Linear 380 collisions
+Quadratic 370 collisions
+Double 332 collisions
+
+*** Descending Order End ***
+
